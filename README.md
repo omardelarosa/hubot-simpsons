@@ -1,5 +1,10 @@
 #hubot-simpsons
+## PROJECT MOVED
+Please use the new version called `hubot-thesimpsons` by visiting:
 
-For future updates, please visit the new home of the simpsons hubot script at:
+[https://github.com/hubot-scripts/hubot-thesimpsons](https://github.com/hubot-scripts/hubot-thesimpsons)
 
-[https://github.com/jjasghar/hubot-thesimpsons](https://github.com/jjasghar/hubot-thesimpsons)
+or via npm:
+```
+npm install hubot-thesimpsons
+```
